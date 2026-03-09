@@ -1,4 +1,10 @@
 # 🏗 VLAN Segmentation Lab – Enterprise Network Simulation
+![Firewall](https://img.shields.io/badge/Firewall-pfSense-orange)
+![Virtualization](https://img.shields.io/badge/Virtualization-VirtualBox-blue)
+![Network](https://img.shields.io/badge/Network-VLAN%20Segmentation-green)
+![VLAN10](https://img.shields.io/badge/VLAN10-Clients-lightgrey)
+![VLAN20](https://img.shields.io/badge/VLAN20-Servers-lightgrey)
+![VLAN30](https://img.shields.io/badge/VLAN30-Management-lightgrey)
 ## 📌 Overview
 
 This lab transforms a flat virtual network into a segmented enterprise-style architecture using VLAN-like segmentation inside VirtualBox and pfSense.
